@@ -1,0 +1,2 @@
+D:\Harbinger\BlogAssignment\DataTransferObjects\obj\Debug\DataTransferObjects.csprojAssemblyReference.cache
+D:\Harbinger\BlogAssignment\DataTransferObjects\obj\Debug\DataTransferObjects.csproj.CoreCompileInputs.cache

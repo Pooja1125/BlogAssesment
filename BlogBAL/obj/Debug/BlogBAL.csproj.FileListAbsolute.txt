@@ -1,0 +1,9 @@
+D:\Harbinger\BlogAssignment\BlogBAL\bin\Debug\BlogBAL.dll
+D:\Harbinger\BlogAssignment\BlogBAL\bin\Debug\BlogBAL.pdb
+D:\Harbinger\BlogAssignment\BlogBAL\obj\Debug\BlogBAL.csprojAssemblyReference.cache
+D:\Harbinger\BlogAssignment\BlogBAL\obj\Debug\BlogBAL.csproj.CoreCompileInputs.cache
+D:\Harbinger\BlogAssignment\BlogBAL\obj\Debug\BlogBAL.dll
+D:\Harbinger\BlogAssignment\BlogBAL\obj\Debug\BlogBAL.pdb
+D:\Harbinger\BlogAssignment\BlogBAL\bin\Debug\BlogDAL.dll
+D:\Harbinger\BlogAssignment\BlogBAL\bin\Debug\BlogDAL.pdb
+D:\Harbinger\BlogAssignment\BlogBAL\obj\Debug\BlogBAL.csproj.CopyComplete

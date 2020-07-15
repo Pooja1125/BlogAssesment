@@ -1,0 +1,6 @@
+D:\Harbinger\BlogAssignment\BlogDAL\bin\Debug\BlogDAL.dll
+D:\Harbinger\BlogAssignment\BlogDAL\bin\Debug\BlogDAL.pdb
+D:\Harbinger\BlogAssignment\BlogDAL\obj\Debug\BlogDAL.csproj.CoreCompileInputs.cache
+D:\Harbinger\BlogAssignment\BlogDAL\obj\Debug\BlogDAL.dll
+D:\Harbinger\BlogAssignment\BlogDAL\obj\Debug\BlogDAL.pdb
+D:\Harbinger\BlogAssignment\BlogDAL\obj\Debug\BlogDAL.csprojAssemblyReference.cache

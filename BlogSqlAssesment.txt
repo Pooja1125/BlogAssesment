@@ -1,0 +1,14 @@
+create table books(id int, title varchar(250), year int, author varchar(250));
+create table reviewers(id int, name varchar(250));
+create table ratings(reviewer_id int, book_id int, rating int, rating_date date);
+insert into books values(101,'A Tale Of Two Cities',1859,'Charles Dickens')
+insert into books values(102,'The Lord of the Rings',1955,'J. R. R. Tolkien')
+insert into books values(103,'The Hobbit',1937,NULL)
+insert into ratings values(15201,101,2,'2015-02-11')
+insert into ratings values(53202,103,4,NULL)
+insert into ratings values(15201,101,4,'2015-06-16')
+
+Query: 
+
+SELECT title FROM books WHERE id IN 
+(SELECT book_id FROM ratings WHERE rating >= 4) ORDER BY title;
